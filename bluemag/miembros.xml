@@ -1,0 +1,15 @@
+<grupo>
+	<nombre>bluemag</nombre>
+	<url>https://svn.riouxsvn.com/27017bluemag</url>
+	<miembro>
+		<nombre>Stiven Ramírez Arango</nombre>
+		<codigo>201610072010</codigo>
+		<email>sramir70@eafit.edu.co</email>
+	</miembro>
+	<miembro>
+		<nombre>Juan Camilo Gómez Ruiz</nombre>
+		<codigo>201510024010</codigo>
+		<email>jgomez88@eafit.edu.co</email>
+	</miembro>
+	<mainclass clase="co.edu.eafit.st0270.s2017.bluemag.main.MainBluemag"/>
+</grupo>
